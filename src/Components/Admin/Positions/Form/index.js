@@ -20,7 +20,7 @@ import ButtonCancel from 'Components/Shared/Buttons/ButtonCancel';
 import ButtonConfirm from 'Components/Shared/Buttons/ButtonConfirm';
 import ModalError from 'Components/Shared/Modals/ModalError';
 
-const positionsForm = () => {
+const PositionsForm = () => {
   const history = useHistory();
   const dispatch = useDispatch();
   const [positionId, setPositionId] = useState(undefined);
@@ -169,4 +169,4 @@ const positionsForm = () => {
   );
 };
 
-export default positionsForm;
+export default PositionsForm;
