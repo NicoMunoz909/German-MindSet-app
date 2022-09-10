@@ -10,8 +10,30 @@
 
 > We are an HR company that helps you find your next work experience
 
-### ✨ [Demo](german-mind-set-app.vercel.app)
+### ✨ [Demo](https://basd-mindset-app.herokuapp.com/)
 
+#### Admin account:
+
+email: johndoe@mindset.com
+
+password: john1234
+
+#### User account:
+
+email: ravenna@telefe.com
+
+password: ravenna123
+#### Admin account:
+
+email: johndoe@test.com
+
+password: 12345678
+
+#### User account:
+
+email: ziajaberg@test.com
+
+password: 12345678
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisites
