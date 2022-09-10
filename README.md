@@ -23,18 +23,6 @@ password: john1234
 email: ravenna@telefe.com
 
 password: ravenna123
-#### Admin account:
-
-email: johndoe@test.com
-
-password: 12345678
-
-#### User account:
-
-email: ziajaberg@test.com
-
-password: 12345678
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisites
 
